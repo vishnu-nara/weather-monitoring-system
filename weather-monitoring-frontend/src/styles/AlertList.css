@@ -1,0 +1,24 @@
+.alert-list {
+    background-color: #ffebee;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .alert-list h3 {
+    color: #d32f2f;
+    margin-top: 0;
+  }
+  
+  .alert-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .alert-item {
+    background-color: #fff;
+    border-left: 4px solid #d32f2f;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+  }

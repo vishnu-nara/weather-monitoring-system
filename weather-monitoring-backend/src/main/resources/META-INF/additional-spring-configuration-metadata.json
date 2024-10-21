@@ -1,0 +1,23 @@
+{"properties": [
+  {
+    "name": "cities",
+    "type": "java.lang.String",
+    "description": "A description for 'cities'"
+  },
+  {
+    "name": "weather.update.interval",
+    "type": "java.lang.String",
+    "description": "A description for 'weather.update.interval'"
+  
+},
+{
+    "name": "openweathermap.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'openweathermap.api.url'"
+  },
+{
+    "name": "openweathermap.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'openweathermap.api.key'"
+  }
+]}
